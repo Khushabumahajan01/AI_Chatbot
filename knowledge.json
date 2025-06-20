@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "paragraph": "Python is a versatile programming language known for its readability and broad range of applications, from web development to data science."
+  },
+  {
+    "id": "2",
+    "paragraph": "FastAPI is a modern, fast web framework for building APIs with Python 3.7+ based on standard Python type hints."
+  },
+  {
+    "id": "3",
+    "paragraph": "Groq is a technology company providing APIs and hardware solutions for AI acceleration and efficient machine learning model deployment."
+  },
+  {
+    "id": "4",
+    "paragraph": "JSON stands for JavaScript Object Notation and is a lightweight format for storing and transporting data, widely used for data interchange between servers and web applications."
+  },
+  {
+    "id": "5",
+    "paragraph": "Embeddings are numerical vector representations of text that capture semantic meaning, enabling machines to perform tasks like similarity search and clustering."
+  }
+]
